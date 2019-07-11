@@ -1,1 +1,1 @@
-# musi
+# MusicBot
